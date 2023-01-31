@@ -1,3 +1,4 @@
 # Assembler
 implementing an assembler in both python and assembly language( NASM ) for some of its instructions.
-![image](https://user-images.githubusercontent.com/121708191/215851846-cdfdb6c4-16c1-42c9-aaf9-f9147dd33336.png)
+![1](https://user-images.githubusercontent.com/121708191/215852923-ac4ec80c-9ce4-4a4b-8777-331d7a83aafa.png)
+
